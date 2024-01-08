@@ -2,7 +2,7 @@
 lock "~> 3.18.0"
 
 set :application, "myapp"
-set :repo_url, "git@github.com:username/cap.git"
+set :repo_url, "git@github.com:palhimalaya/cap.git"
 
 set :branch, :myapp
 
